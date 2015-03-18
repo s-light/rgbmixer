@@ -87,7 +87,7 @@ $(ARDUINO)/main.cpp \
 $(SOURCES) \
 $(ARDUINO_LIB)/EEPROM/EEPROM.cpp \
 
-CXX_APP = main.cpp
+CXX_APP = rgbmixer.ino
 MODULES = $(C_MODULES) $(CXX_MODULES)
 SRC = $(C_MODULES)
 CXXSRC = $(CXX_MODULES) $(CXX_APP)
