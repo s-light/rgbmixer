@@ -29,7 +29,7 @@
  *   dmx personality (1)
  */
 
-#include "EEPROM/EEPROM.h"
+#include <EEPROM.h>
 #include "WidgetSettings.h"
 
 

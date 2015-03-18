@@ -1,3 +1,7 @@
+04/3/2015 Stefan Krüger <mail@s-light.eu>
+  * changed main.cpp to rgbmixer.ino so that it is usable with the (graphical) Arduino IDE 
+  * added EEPROM include to rgbmixer.ino and changed include in WidgetSettings.cpp
+
 23/4/2011 Simon Newton <nomis52@gmail.com>
   * Add personalities
 
